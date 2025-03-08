@@ -92,6 +92,7 @@
         //{"key":"DRJS_虎牙","name":"虎牙直播(JS)","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/虎牙直播.js","searchable": 0,"quickSearch": 0,"filterable": 0},
         //{"key": "csp_XYQHiker_虎牙直播","name": "🐯虎牙直播(XYQH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./XYQHiker/虎牙直播.json"},
         //{"key": "csp_XYQHiker_斗鱼直播","name": "🐠斗鱼直播(XYQH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "./XYQHiker/斗鱼直播.json"}
+        {"key":"drpy_js_豆瓣","name":"豆瓣[js]","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/drpy.js"}
         //点击示例
         //document.getElementById('EaKWQVrB').click()
         //document.getElementsByClassName('swal-button swal-button--confirm')[0].click()
